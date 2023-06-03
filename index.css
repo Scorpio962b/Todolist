@@ -1,6 +1,7 @@
 body{
 /* background-color: rgb(53, 114, 96); */
 background: linear-gradient(to left, black 0%, black 50%, blue 50%, blue 50%);
+
 }
 
 .container {
@@ -19,7 +20,7 @@ background: linear-gradient(to left, black 0%, black 50%, blue 50%, blue 50%);
     margin: 10px;
     border-radius: 10px;
 }
-.heading{
+#heading{
     background: linear-gradient(to left,blue 0%, blue 50% ,black 50%, black 50%);
     border-radius: 10px;
     text-align: center;
